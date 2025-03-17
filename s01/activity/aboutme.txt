@@ -1,2 +1,6 @@
 First Name: Phyll 
 Last Name: Oanes
+
+
+Motivation:
+To learn and improve on project management by understanding all the details and activities of a full stack web developer.
