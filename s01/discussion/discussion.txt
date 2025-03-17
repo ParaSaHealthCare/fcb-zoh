@@ -1,3 +1,8 @@
 Hello World!
 
 Welcome to Zuitt Freecoding Bootcamp.
+
+Topics in this FCB:
+	-Git
+	-html
+	-css
